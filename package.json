@@ -1,0 +1,24 @@
+{
+  "name": "ionic-helpers",
+  "version": "1.0.0",
+  "description": "Helpers developed for ionic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmeireles/ionic-helpers.git"
+  },
+  "keywords": [
+    "ionic",
+    "ionic2",
+    "helpers"
+  ],
+  "author": "LMeireles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmeireles/ionic-helpers/issues"
+  },
+  "homepage": "https://github.com/lmeireles/ionic-helpers#readme"
+}
